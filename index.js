@@ -6,6 +6,7 @@
 
 
 
+
 // function haveSameKeys(obj1, obj2) {
 //   const keys1 = Object.keys(obj1).sort();
 //   const keys2 = Object.keys(obj2).sort();
@@ -24,6 +25,8 @@
 // }
 
 
+
+
 // const obj1 = { a: 1, b: 2 };
 // const obj2 = { b: 3, c: 4 };
 // const obj3 = { d: 5 };
@@ -34,10 +37,14 @@
 // // Output: { a: 1, b: 3, c: 4, d: 5 }
 
 
+
+
 // function deleteKey(obj, key) {
 //   delete obj[key];
 //   return obj;
 // }
+
+
 
 
 // class Car {
